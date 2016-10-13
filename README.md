@@ -21,6 +21,7 @@
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [License](#license)
+
 ## Synopsis
 The problem put forward was to design a program to assist a course coordinator in the management of student results. A Java desktop application is to be developed, driven by a simple Swing GUI. Interaction between the database and the application is to be via JDBC. The NetBeans IDE is to be used for development. Derby must be used as the database connector.
 
